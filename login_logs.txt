@@ -1,0 +1,9 @@
+2026-05-17 08:55:12 user=sophie action=login status=success ip=192.168.1.14 location=London
+2026-05-17 08:58:33 user=mark action=login status=success ip=192.168.1.21 location=London
+2026-05-17 09:01:04 user=anna action=login status=failed ip=203.0.113.45 location=Unknown
+2026-05-17 09:01:11 user=anna action=login status=failed ip=203.0.113.45 location=Unknown
+2026-05-17 09:01:19 user=anna action=login status=failed ip=203.0.113.45 location=Unknown
+2026-05-17 09:01:27 user=anna action=login status=failed ip=203.0.113.45 location=Unknown
+2026-05-17 09:01:38 user=anna action=login status=success ip=203.0.113.45 location=Unknown
+2026-05-17 09:06:52 user=admin action=login status=success ip=192.168.1.10 location=London
+2026-05-17 09:10:45 user=sophie action=logout status=success ip=192.168.1.14 location=London

@@ -1,0 +1,6 @@
+services:
+  failed-login-ctf:
+    build: .
+    container_name: failed-login-ctf
+    stdin_open: true
+    tty: true

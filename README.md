@@ -1,5 +1,7 @@
 # Failed Login Investigation CTF
 
+<img width="841" height="440" alt="image" src="https://github.com/user-attachments/assets/894c9d96-d1d9-443a-9f55-0c4671952409" />
+
 ## Overview
 
 This is a beginner-friendly SOC-style CTF challenge focused on failed login investigation. The challenge involves reviewing authentication logs, identifying multiple failed login attempts followed by a successful login, detecting a suspicious IP address, and writing basic incident response recommendations.

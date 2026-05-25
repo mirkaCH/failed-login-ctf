@@ -4,7 +4,7 @@
 This project was created to demonstrate my ability to design and document beginner-friendly cybersecurity CTF-style challenges.
 
 The focus is on clear scenario design, reproducible setup, investigation flow, learning objectives, and basic security documentation.
-<img width="841" height="440" alt="image" src="https://github.com/user-attachments/assets/894c9d96-d1d9-443a-9f55-0c4671952409" />
+
 
 ## Overview
 

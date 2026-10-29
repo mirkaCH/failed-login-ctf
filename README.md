@@ -45,11 +45,12 @@ A suspicious authentication activity was detected on a Linux server. Your task i
 - `Dockerfile` - defines the Linux-based challenge environment
 - `docker-compose.yml` - runs the challenge container
 - `solution.md` - contains the solution and investigation notes
-- `screenshots/` - contains screenshots for portfolio documentation
+- `02-log-analysis-grep-results.png` - screenshot showing log analysis results
+- `Screenshot 2026-05-19 194551.png` - additional screenshot documenting the investigation
 
 ## How to Run
 
 Build the Docker image:
 
 ```bash
-docker compose builds
+docker compose build
